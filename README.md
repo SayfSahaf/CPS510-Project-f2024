@@ -6,3 +6,5 @@ Use the following commands to compile and run the program.
 javac -cp ".:lib/*" OracleSwingApp.java
 java -cp ".:lib/*" OracleSwingApp
 ```
+###### Command tested on a Mac/Unix system 
+
